@@ -1,0 +1,157 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\blazor projects\\marrage_hall\\marrage_hall\\wwwroot\\css\\about.css",
+      "PackagePath": "staticwebassets\\css\\about.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\blazor projects\\marrage_hall\\marrage_hall\\wwwroot\\css\\blog.css",
+      "PackagePath": "staticwebassets\\css\\blog.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\blazor projects\\marrage_hall\\marrage_hall\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\blazor projects\\marrage_hall\\marrage_hall\\wwwroot\\css\\contact.css",
+      "PackagePath": "staticwebassets\\css\\contact.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\blazor projects\\marrage_hall\\marrage_hall\\wwwroot\\css\\detail.css",
+      "PackagePath": "staticwebassets\\css\\detail.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\blazor projects\\marrage_hall\\marrage_hall\\wwwroot\\css\\element.css",
+      "PackagePath": "staticwebassets\\css\\element.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\blazor projects\\marrage_hall\\marrage_hall\\wwwroot\\css\\gallery.css",
+      "PackagePath": "staticwebassets\\css\\gallery.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\blazor projects\\marrage_hall\\marrage_hall\\wwwroot\\css\\global.css",
+      "PackagePath": "staticwebassets\\css\\global.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\blazor projects\\marrage_hall\\marrage_hall\\wwwroot\\css\\index.css",
+      "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\blazor projects\\marrage_hall\\marrage_hall\\wwwroot\\css\\service.css",
+      "PackagePath": "staticwebassets\\css\\service.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\blazor projects\\marrage_hall\\marrage_hall\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\blazor projects\\marrage_hall\\marrage_hall\\wwwroot\\css\\team.css",
+      "PackagePath": "staticwebassets\\css\\team.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\blazor projects\\marrage_hall\\marrage_hall\\wwwroot\\img\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\blazor projects\\marrage_hall\\marrage_hall\\wwwroot\\img\\1.png",
+      "PackagePath": "staticwebassets\\img\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\blazor projects\\marrage_hall\\marrage_hall\\wwwroot\\img\\10.jpg",
+      "PackagePath": "staticwebassets\\img\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\blazor projects\\marrage_hall\\marrage_hall\\wwwroot\\img\\11.jpg",
+      "PackagePath": "staticwebassets\\img\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\blazor projects\\marrage_hall\\marrage_hall\\wwwroot\\img\\150 1.jpg",
+      "PackagePath": "staticwebassets\\img\\150 1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\blazor projects\\marrage_hall\\marrage_hall\\wwwroot\\img\\150 2.jpg",
+      "PackagePath": "staticwebassets\\img\\150 2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\blazor projects\\marrage_hall\\marrage_hall\\wwwroot\\img\\150.jpg",
+      "PackagePath": "staticwebassets\\img\\150.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\blazor projects\\marrage_hall\\marrage_hall\\wwwroot\\img\\2 .jpg",
+      "PackagePath": "staticwebassets\\img\\2 .jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\blazor projects\\marrage_hall\\marrage_hall\\wwwroot\\img\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\blazor projects\\marrage_hall\\marrage_hall\\wwwroot\\img\\4.PNG",
+      "PackagePath": "staticwebassets\\img\\4.PNG"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\blazor projects\\marrage_hall\\marrage_hall\\wwwroot\\img\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\blazor projects\\marrage_hall\\marrage_hall\\wwwroot\\img\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\blazor projects\\marrage_hall\\marrage_hall\\wwwroot\\img\\6.jpg",
+      "PackagePath": "staticwebassets\\img\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\blazor projects\\marrage_hall\\marrage_hall\\wwwroot\\img\\7.jpg",
+      "PackagePath": "staticwebassets\\img\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\blazor projects\\marrage_hall\\marrage_hall\\wwwroot\\img\\8.png",
+      "PackagePath": "staticwebassets\\img\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\blazor projects\\marrage_hall\\marrage_hall\\wwwroot\\img\\9.jpg",
+      "PackagePath": "staticwebassets\\img\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\blazor projects\\marrage_hall\\marrage_hall\\wwwroot\\img\\g1.jpg",
+      "PackagePath": "staticwebassets\\img\\g1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\blazor projects\\marrage_hall\\marrage_hall\\wwwroot\\img\\g2.jpg",
+      "PackagePath": "staticwebassets\\img\\g2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\blazor projects\\marrage_hall\\marrage_hall\\wwwroot\\img\\g3.jpg",
+      "PackagePath": "staticwebassets\\img\\g3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\blazor projects\\marrage_hall\\marrage_hall\\wwwroot\\img\\i.jpg",
+      "PackagePath": "staticwebassets\\img\\i.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\blazor projects\\marrage_hall\\marrage_hall\\wwwroot\\img\\q.jpg",
+      "PackagePath": "staticwebassets\\img\\q.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\blazor projects\\marrage_hall\\marrage_hall\\wwwroot\\img\\t1.png",
+      "PackagePath": "staticwebassets\\img\\t1.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.marrage_hall.props",
+      "PackagePath": "build\\marrage_hall.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.marrage_hall.props",
+      "PackagePath": "buildMultiTargeting\\marrage_hall.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.marrage_hall.props",
+      "PackagePath": "buildTransitive\\marrage_hall.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.marrage_hall.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
